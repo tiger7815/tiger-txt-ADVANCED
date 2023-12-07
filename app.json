@@ -5,7 +5,7 @@
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/imacekun/cw-dl",
+    "repository": "https://github.com/tiger7815/tiger-txt-advanced",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
